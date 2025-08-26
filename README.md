@@ -31,3 +31,8 @@ For Windows you might need to use the command like this:
 ```bash
 ./build/NeoQuake.exe ./maps/e1m1.bsp ./lmp/palette.lmp
 ```
+
+## Screenshots
+
+![NeoQuake View 1](https://github.com/Schwarzemann/NeoQuake/blob/main/doc/view1.png)
+![NeoQuake View 2](https://github.com/Schwarzemann/NeoQuake/blob/main/doc/view2.png)
